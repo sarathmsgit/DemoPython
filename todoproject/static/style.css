@@ -1,0 +1,20 @@
+.banner{
+    background-color: firebrick;
+    width:100%;
+    height:75px;
+    margin-bottom:50px;
+
+    }
+.banner-text{
+top:3%;
+left:45%;
+position:absolute;
+text-align: center;
+transform:transform;
+
+}
+
+body{
+background-color:	gray;
+
+}
